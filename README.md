@@ -12,5 +12,5 @@ A chatbot that replies some specific messages in the web page, such as greeting 
 * jQuery
 <br />
 
-**A video and picture of the chatbot are attached **
+**A video, picture and JSON file of the chatbot are attached **
 
